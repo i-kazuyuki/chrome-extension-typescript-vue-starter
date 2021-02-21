@@ -2,7 +2,7 @@
 node_modules
 /dist
 artifacts
-
+!/public
 
 # local env files
 .env.local
